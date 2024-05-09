@@ -1,1 +1,1 @@
-# Kayne-LCA-Algorithms
+# Kayne-LCA (the Linear Correspondence Axiom)-Algorithms
